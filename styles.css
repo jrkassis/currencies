@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    background-image: radial-gradient(circle, #BCEAD5 0%, #DEF5E5 100%);
+    text-align: center;
+    padding-top: 200px; 
+}
+
+#flag {
+    box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+}
+
+.opt {
+    font-size: 20px;
+    color: #000;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: transparent;
+    outline: white;
+}
+
+p {
+    font-size: 30px;
+    color: #000;
+}
